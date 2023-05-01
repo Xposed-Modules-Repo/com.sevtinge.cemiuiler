@@ -1,16 +1,8 @@
-<div align="right">
+<div align="center">
+<h1>Cemiuiler</h1>
+ 
 <a href="/README.md">中文</a> &nbsp;|&nbsp;
 <a href="/README_en-US.md">EN</a>
-</div>
-
-<div align="center">
-
-![cemiuiler](https://socialify.git.ci/sevtinge/cemiuiler/image?description=1&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
-
-![LICENSE](https://img.shields.io/github/license/Sevtinge/Cemiuiler?style=flat-square)
-![REPO_SIZE](https://img.shields.io/github/repo-size/Sevtinge/Cemiuiler?style=flat-square)
-![COMMIT](https://img.shields.io/github/last-commit/Sevtinge/Cemiuiler?style=flat-square)
-![LANG](https://img.shields.io/badge/language-Java-7F52FF?style=flat-square)
 
 [![badge_qgroup]][qgroup_url]
 [![badge_qguild]][qguild_url]
@@ -18,6 +10,7 @@
 [![badge_telegram_beta]][telegram_beta_url]
 
 </div>
+
 
 > Make MIUI Great Again!
 
