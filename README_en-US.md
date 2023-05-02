@@ -21,7 +21,7 @@
 ## Supported versions
 MIUI 12.5 ~ 14 for Android 11 ~ 13
 
-> Does not support third-party ROMs with many modifications, system software with many modifications, and some foreign ROMs
+> Does not support third-party MIUI ROMs with many modifications, system software with many modifications, and some foreign MIUI ROMs
 > 
 > At present, Cemiuiler is based on Android13 MIUI14 mobile phone devices for adaptation, the coverage is not very complete, it needs continuous testing and improvement
 > 
