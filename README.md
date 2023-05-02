@@ -11,7 +11,15 @@
 
 </div>
 
-> Make MIUI Great Again!
+> 让 MIUI 再次伟大 ！
+> <a href="https://github.com/Sevtinge/Cemiuiler">本项目源码</a>
+
+## 支持的版本
+Android 11 ~ 13 的 MIUI 12.5 ~ 14
+
+> 不支持 修改较多的第三方 ROM、修改较多的系统软件，以及部分国外 ROM
+> 目前 Cemiuiler 是基于 Android13 的 MIUI14 的手机端设备进行适配，覆盖不是很完整，需要不断测试和改进
+> 对于 Android11 的设备，已尽力做好支持，在基于 Android14 的 MIUI 发布后，新功能不会再主动适配 Android11
 
 ## 支持的应用
 
@@ -71,7 +79,6 @@
 - [「Woobox For MIUI」 by Simplicity-Team](https://github.com/Simplicity-Team/WooBoxForMIUI)
 - [「Woobox For MIUI」 by hosizoraru](https://github.com/hosizoraru/WooBoxForMIUI)
 - [「XposedBridge」 by rovo89](https://github.com/rovo89/XposedBridge)
-
 
 [qgroup_url]: https://jq.qq.com/?_wv=1027&k=TedCJq8V
 [badge_qgroup]: https://img.shields.io/badge/QQ-群组-4DB8FF?style=for-the-badge&logo=tencentqq
