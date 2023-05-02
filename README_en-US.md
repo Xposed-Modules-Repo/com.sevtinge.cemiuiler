@@ -4,6 +4,9 @@
 <a href="/README.md">中文</a> &nbsp;|&nbsp;
 <a href="/README_en-US.md">EN</a>
 
+![LICENSE](https://img.shields.io/github/license/Sevtinge/Cemiuiler?style=flat-square)
+![LANG](https://img.shields.io/badge/language-Java-7F52FF?style=flat-square)
+
 [![badge_qgroup]][qgroup_url]
 [![badge_qguild]][qguild_url]
 [![badge_telegram_release]][telegram_release_url]
@@ -18,9 +21,9 @@
 ## Supported versions
 MIUI 12.5 ~ 14 for Android 11 ~ 13
 
-> Does not support third-party ROMs with many modifications, system software with many modifications, and some foreign ROMs
-> At present, Cemiuiler is based on Android13 MIUI14 mobile phone devices for adaptation, the coverage is not very complete, it needs continuous testing and improvement
-> For Android11 devices, we have tried our best to support them. After the release of Android14-based MIUI, new features will no longer actively adapt to Android11
+Does not support third-party ROMs with many modifications, system software with many modifications, and some foreign ROMs
+At present, Cemiuiler is based on Android13 MIUI14 mobile phone devices for adaptation, the coverage is not very complete, it needs continuous testing and improvement
+For Android11 devices, we have tried our best to support them. After the release of Android14-based MIUI, new features will no longer actively adapt to Android11
 
 ## Supported Applications
 

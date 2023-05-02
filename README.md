@@ -4,6 +4,9 @@
 <a href="/README.md">中文</a> &nbsp;|&nbsp;
 <a href="/README_en-US.md">EN</a>
 
+![LICENSE](https://img.shields.io/github/license/Sevtinge/Cemiuiler?style=flat-square)
+![LANG](https://img.shields.io/badge/language-Java-7F52FF?style=flat-square)
+
 [![badge_qgroup]][qgroup_url]
 [![badge_qguild]][qguild_url]
 [![badge_telegram_release]][telegram_release_url]
@@ -17,9 +20,9 @@
 ## 支持的版本
 Android 11 ~ 13 的 MIUI 12.5 ~ 14
 
-> 不支持 修改较多的第三方 ROM、修改较多的系统软件，以及部分国外 ROM
-> 目前 Cemiuiler 是基于 Android13 的 MIUI14 的手机端设备进行适配，覆盖不是很完整，需要不断测试和改进
-> 对于 Android11 的设备，已尽力做好支持，在基于 Android14 的 MIUI 发布后，新功能不会再主动适配 Android11
+不支持 修改较多的第三方 ROM、修改较多的系统软件，以及部分国外 ROM 
+目前 Cemiuiler 是基于 Android13 的 MIUI14 的手机端设备进行适配，覆盖不是很完整，需要不断测试和改进
+对于 Android11 的设备，已尽力做好支持，在基于 Android14 的 MIUI 发布后，新功能不会再主动适配 Android11
 
 ## 支持的应用
 
