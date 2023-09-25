@@ -87,18 +87,11 @@ Android 11 ~ 13 的 MIUI 12.5 ~ 14
 | 小爱同学 | com.miui.voiceassist |
 | 音乐 | com.miui.player |
 | MIUI+ Beta 版 | com.xiaomi.mirror |
+| com.xiaomi.NetworkBoost | com.xiaomi.NetworkBoost |
 
 </details>
 
 > 与 LSPosed 中推荐的作用域相同
-
-## 交流 & 反馈群组
-
-加入我们所创建的群组以反馈问题或是了解最新情况。
-
-[![badge_qgroup]][qgroup_url]
-[![badge_qguild]][qguild_url]
-[![badge_telegram]][telegram_url]
 
 ## 为 Cemiuiler 贡献翻译
 

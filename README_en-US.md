@@ -32,39 +32,39 @@ MIUI 12.5 ~ 14 for Android 11 ~ 13
 <details>
     <summary>Click to expand collapsed content</summary>
 
-| App Name | Package Name |
-| :---- | :---- | 
-| System Framework | system |
-| System UI | com.android.systemui |
-| System Launcher | com.miui.home |
-| Updater | com.android.updater |
-| Joyose | com.xiaomi.joyose |
-| Settings | com.xiaomi.misettings |
-| Security | com.miui.securitycenter |
-| Notes | com.miui.notes |
-| Mi Wallpaper | com.miui.miwallpaper |
-| Taplus | com.miui.contentextension |
-| Bullet screen notification | com.xiaomi.barrage |
-| Baidu IME for MIUI | com.baidu.input_mi |
-| Phone | com.android.incallui |
-| Phone Services | com.android.phone |
-| Battery and performance | com.miui.powerkeeper |
-| Messaging | com.android.mms |
-| Screenshot | com.miui.screenshot |
-| Cleaner | com.miui.cleanmaster |
-| Browser | com.android.browser |
-| Rueban (MTB) | com.xiaomi.mtb |
-| Screen Recorder | com.miui.screenrecorder |
-| Permissions | com.lbe.security.miui |
-| Settings | com.android.settings
-| Input Settings | com.miui.miinput |
+| App Name | Package Name                      |
+| :---- |:----------------------------------| 
+| System Framework | system                            |
+| System UI | com.android.systemui              |
+| System Launcher | com.miui.home                     |
+| Updater | com.android.updater               |
+| Joyose | com.xiaomi.joyose                 |
+| Settings | com.xiaomi.misettings             |
+| Security | com.miui.securitycenter           |
+| Notes | com.miui.notes                    |
+| Mi Wallpaper | com.miui.miwallpaper              |
+| Taplus | com.miui.contentextension         |
+| Bullet screen notification | com.xiaomi.barrage                |
+| Baidu IME for MIUI | com.baidu.input_mi                |
+| Phone | com.android.incallui              |
+| Phone Services | com.android.phone                 |
+| Battery and performance | com.miui.powerkeeper              |
+| Messaging | com.android.mms                   |
+| Screenshot | com.miui.screenshot               |
+| Cleaner | com.miui.cleanmaster              |
+| Browser | com.android.browser               |
+| Rueban (MTB) | com.xiaomi.mtb                    |
+| Screen Recorder | com.miui.screenrecorder           |
+| Permissions | com.lbe.security.miui             |
+| Settings | com.android.settings              
+| Input Settings | com.miui.miinput                  |
 | Sogou Keyboard for MIUI | com.sohu.inputmethod.sogou.xiaomi |
-| Weather | com.miui.weather2 |
-| Cast | com.milink.service |
-| External Storage | com.android.externalstorage |
-| Always-on display | com.miui.aod |
-| File Manager | com.android.fileexplorer |
-| System Service Plugin | com.miui.securityadd |
+| Weather | com.miui.weather2                 |
+| Cast | com.milink.service                |
+| External Storage | com.android.externalstorage       |
+| Always-on display | com.miui.aod                      |
+| File Manager | com.android.fileexplorer          |
+| System Service Plugin | com.miui.securityadd              |
 | Downloads | com.android.providers.downloads.ui |
 | Downloads | com.android.providers.downloads |
 | Gallery | com.miui.gallery |
@@ -88,18 +88,11 @@ MIUI 12.5 ~ 14 for Android 11 ~ 13
 | Mi AI | com.miui.voiceassist |
 | Music | com.miui.player |
 | MIUI+ Beta | com.xiaomi.mirror |
+| com.xiaomi.NetworkBoost | com.xiaomi.NetworkBoost |
 
 </details>
 
 > Same scope as recommended in LSPosed
-
-## Chat & Feedback Group
-
-Join our group to report issues or get the latest updates.
-
-[![badge_qgroup]][qgroup_url]
-[![badge_qguild]][qguild_url]
-[![badge_telegram]][telegram_url]
 
 ## Provide translations for the Cemiuiler project
 
